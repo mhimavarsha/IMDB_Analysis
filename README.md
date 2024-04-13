@@ -10,7 +10,7 @@ const fileFormatURL = "https://github.com/mhimavarsha/IMDB_Analysis/blob/main/im
 const stageURL = "https://github.com/mhimavarsha/IMDB_Analysis/blob/main/images/create_stage.png";
 
 // Create anchor tags for each image
-const brightdataPageLink = `<a href="${brightdataPageURL}">Brightdata Page</a>`;
+const brightdataPageLink = `<a href="${[brightdataPageURL](https://github.com/mhimavarsha/IMDB_Analysis/blob/main/images/Brightdata_page.png)}">Brightdata Page</a>`;
 const loginPageLink = `<a href="${loginPageURL}">Login Page</a>`;
 const warehouseLink = `<a href="${warehouseURL}">Warehouse</a>`;
 const fileFormatLink = `<a href="${fileFormatURL}">File Format</a>`;
